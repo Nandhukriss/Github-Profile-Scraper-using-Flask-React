@@ -1,3 +1,4 @@
 # Github-Profile-Scraper-using-Flask-React
 
-https://github.com/Nandhukriss/Github-Profile-Scraper-using-Flask-React/assets/103727372/7b1431f7-8c52-4b13-979b-6cd821467e93
+![Untitled video - Made with Clipchamp](https://github.com/Nandhukriss/Github-Profile-Scraper-using-Flask-React/assets/103727372/49e68f68-ecdd-4824-8096-43e24e98d785)
+
