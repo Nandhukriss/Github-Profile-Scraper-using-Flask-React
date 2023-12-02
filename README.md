@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ### Run Back-End
 
 ```sh
-$ python manage.py runserver
+$ python app.py runserver
 ```
 
 ### Run Front-End
