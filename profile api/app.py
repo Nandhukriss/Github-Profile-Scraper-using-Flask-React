@@ -14,7 +14,7 @@ def index():
 
 @app.route('/<username>')
 @cross_origin()
-def index(username):
+def get_data(username):
     
     try:
 
@@ -25,7 +25,6 @@ def index(username):
         #To get image url 
         image_url =avatar_class_content[0].get('src')
         repositories = soup.find('span',class_="Counter").text
-
         profile_info={
             'image_url':image_url,
             'repositories':repositories
